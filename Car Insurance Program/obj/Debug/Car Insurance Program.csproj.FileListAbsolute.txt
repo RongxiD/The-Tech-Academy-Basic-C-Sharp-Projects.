@@ -1,0 +1,7 @@
+D:\The Tech Academy\Basic_C#_Programs\lessons\Car Insurance Program\bin\Debug\Car Insurance Program.exe.config
+D:\The Tech Academy\Basic_C#_Programs\lessons\Car Insurance Program\bin\Debug\Car Insurance Program.exe
+D:\The Tech Academy\Basic_C#_Programs\lessons\Car Insurance Program\bin\Debug\Car Insurance Program.pdb
+D:\The Tech Academy\Basic_C#_Programs\lessons\Car Insurance Program\obj\Debug\Car Insurance Program.csprojAssemblyReference.cache
+D:\The Tech Academy\Basic_C#_Programs\lessons\Car Insurance Program\obj\Debug\Car Insurance Program.csproj.CoreCompileInputs.cache
+D:\The Tech Academy\Basic_C#_Programs\lessons\Car Insurance Program\obj\Debug\Car Insurance Program.exe
+D:\The Tech Academy\Basic_C#_Programs\lessons\Car Insurance Program\obj\Debug\Car Insurance Program.pdb
